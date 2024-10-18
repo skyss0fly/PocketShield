@@ -3,3 +3,9 @@
 ## Error Messages
 error.outdated_server: "Server is Outdated. Contact an Administrator."
 error.outdated_client: "Client is Outdated. Please Update to a Newer Version"
+error.server_stopping: "Server is Stopping."
+error.server_still_starting: "Server is still Starting. Come Back Later."
+error.perm_banned: "You Are Permanently Banned."
+error.temp_banned: "You are Temporarily Banned."
+error.kicked: "Kicked from the server."
+
